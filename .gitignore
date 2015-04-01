@@ -3,3 +3,8 @@ installed-protobufs
 protobuf-2.2.0a
 boost_1_39_0
 protobuf-2.6.0
+SDL2-2.0.3
+SDL2_gfx-1.0.1
+SDL2_mixer-2.0.0
+SDL2_ttf-2.0.12
+freetype-2.5.5
